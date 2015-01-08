@@ -1,0 +1,3 @@
+[submodule "MetricscatSDK"]
+	path = MetricscatSDK
+	url = ../MetricscatSDK.git
